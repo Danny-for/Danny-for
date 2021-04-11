@@ -3,7 +3,7 @@
 Meu nome é Dannyela Geovanna 🙋🏽‍♀️
 
 
-Sou aspirante em Frontend , e comecei os estudos na programção no meio do ano 2019
+Sou aspirante em Frontend , e comecei os estudos na programação no meio do ano 2019
 
 
   #### Experiências geram conhecimentos🧠
