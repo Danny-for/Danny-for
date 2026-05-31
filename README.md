@@ -1,21 +1,19 @@
-### Olá! Me chamo Dannyela. Que alegria ter você por aqui! ⭐
+### Hey! Sou Dannyela. Prazer ter você por aqui! ⭐
 
 ##
 
-### Tecnologias que uso : 
-  <div style="display: inline_block">
-  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </div>
-  <br/>
+Sou apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo. Tenho experiência com desenvolvimento utilizando C#, .NET, ASP.NET e SQL Server, além de conhecimentos em HTML, CSS e JavaScript.
+
+Estou sempre buscando aprimorar minhas habilidades através de projetos, estudos e desafios que contribuam para minha evolução profissional. Meu objetivo é construir soluções que gerem impacto positivo e me desenvolver cada vez mais na área de tecnologia.
+
+🚀 Atualmente focada em:
+
+Desenvolvimento Back-end com C# e .NET
+APIs REST
+Banco de Dados SQL Server
+Boas práticas de programação
+Aprendizado contínuo e desenvolvimento profissional
   
-<div align="left">
-  <a href="https://github.com/danny-for">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-for&layout=compact&langs_count=7&theme=radical"/>
-</div>
  
 ##
   
